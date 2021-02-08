@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Badi , currently learning React following exercises at "30 Days of React" by @Asabeneh
+
+Learning in Hacktiv8 fox_face before
 <!--
 **badimhmm/badimhmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
