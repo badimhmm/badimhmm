@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Badi , currently learning React following exercises at "30 Days of React" by [@Asabeneh] (https://github.com/Asabeneh/30-Days-Of-React)
+I'm Badi , currently learning React following exercises at "30 Days of React" by [@Asabeneh](https://github.com/Asabeneh/30-Days-Of-React)
 
 Learning in Hacktiv8 before
 <!--
